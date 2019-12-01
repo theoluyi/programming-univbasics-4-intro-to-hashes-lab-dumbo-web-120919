@@ -1,5 +1,8 @@
+# learn --fail-fast
+
 def new_hash
-  # return an empty hash
+  hash = hash.new
+  
 end
 
 def my_hash
