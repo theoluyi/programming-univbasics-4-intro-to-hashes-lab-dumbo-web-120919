@@ -2,6 +2,7 @@
 
 def new_hash
   hash = Hash.new
+  # create a new hash and return it 
 end
 
 def my_hash
@@ -15,6 +16,7 @@ def pioneer
 end
 
 def id_generator
+  h = {id: 1}
   # return a hash with a key :id assigned to positive integer
 end
 
