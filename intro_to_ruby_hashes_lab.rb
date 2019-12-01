@@ -2,7 +2,7 @@
 
 def new_hash
   hash = hash.new
-  
+  hash 
 end
 
 def my_hash
