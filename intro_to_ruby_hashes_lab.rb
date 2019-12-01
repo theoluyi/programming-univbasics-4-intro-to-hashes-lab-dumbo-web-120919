@@ -10,7 +10,7 @@ def my_hash
 end
 
 def pioneer
-  h = {name: Grace Hopper}
+  h = {name: 'Grace Hopper'}
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
