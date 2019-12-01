@@ -1,7 +1,7 @@
 # learn --fail-fast
 
 def new_hash
-  hash = hash.new
+  hash = Hash.new
   hash 
 end
 
